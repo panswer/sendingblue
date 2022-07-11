@@ -1,0 +1,23 @@
+{
+  "name": "sendinblue-documentation",
+  "version": "1.0.0",
+  "description": "testing in localhots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "sendinblue",
+    "send",
+    "first",
+    "email"
+  ],
+  "author": "ricardo mejias",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "sib-api-v3-sdk": "^8.2.0"
+  }
+}
